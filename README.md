@@ -7,5 +7,5 @@
 
 - 🔭 I’m currently working on Laborit
 
-- 🌱 I’m currently learning **Python**, **Go**  **Ruby** and **Typescript**
+- 🌱 I’m currently learning **Python**, **Go**, **Ruby** and **Typescript**
 
