@@ -47,4 +47,6 @@
 
 - 🌱 I’m currently learning **Python**, **Go**, **Ruby** and **Typescript**
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
