@@ -47,22 +47,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alalbux&theme=monokai&layout=compact)
 
-
----
-
-
-
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=alalbux&show_icons=true&theme=buefy&count_private=true)-->
-
-
+<br />
+<br />
 
 - 🔭 I’m currently working on Laborit
 
 - 🌱 I’m currently learning **Python**, **Go**, **Ruby** and **Typescript**
 
-<!--![Visitor Count](https://profile-counter.glitch.me/alalbux/count.svg)-->
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alalbux&theme=buefy&layout=compact)
