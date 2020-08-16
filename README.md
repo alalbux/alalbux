@@ -41,10 +41,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<br />
-
-- 🔭 I’m currently working on Laborit
-
 - 🌱 I’m currently learning **Python**, **Go**, **Ruby** and **Typescript**
 
 <!--START_SECTION:waka-->
