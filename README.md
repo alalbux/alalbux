@@ -1,11 +1,12 @@
 # Hi Fellow Devs :wave:
-
+   
 <p>
   <samp>
     I'm Amanda Albuquerque. A Software developer and and Open Source Enthusiast from São Paulo.
   </samp>
   <br/>
   
+
   [![GitHub followers](https://img.shields.io/github/followers/alalbux?style=social)](https://www.github.com/alalbux)
   [![Twitter Follow](https://img.shields.io/twitter/follow/alalbux?style=social)](https://www.twitter.com/alalbux)
   [![Linkedin Badge](https://img.shields.io/badge/-alalbux-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alalbux/)](https://www.linkedin.com/in/alalbux/)
@@ -13,6 +14,17 @@
   
 </p>
 
+
+  <br/>
+  <br/>
+  <br/>
+<p align="center">
+   
+ <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="100" height="100"/>
+</p>
+
+  <br/>
+  
 ### Technologies I've worked on:
 
 <p>
