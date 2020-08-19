@@ -46,8 +46,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2020 - 18 August, 2020
-
 JavaScript   1 hr 24 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
 JSON         1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.13 % 
 JSX          1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.72 % 
