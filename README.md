@@ -56,5 +56,3 @@ TypeScript   17 mins         █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/alalbux/alalbux/blob/master/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/alalbux/alalbux/blob/master/images/stat.svg" alt="Amandinha WakaTime Activity"/>
