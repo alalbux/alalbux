@@ -40,8 +40,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 mins          ████████████████▒░░░░░░░░   64.71 % 
-Makefile     4 mins          ████████▓░░░░░░░░░░░░░░░░   34.89 % 
+HTML         32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.54 % 
+Docker       28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 % 
+JavaScript   28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.73 % 
+Makefile     16 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 <!--END_SECTION:waka-->
 
