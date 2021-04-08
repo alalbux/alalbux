@@ -16,7 +16,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 1 min    █████████████████████████   99.74 % 
+JavaScript   2 hrs 37 mins   ██████████████████▓░░░░░░   74.92 % 
+Vue.js       46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.29 % 
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+GraphQL      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 <!--END_SECTION:waka-->
 
