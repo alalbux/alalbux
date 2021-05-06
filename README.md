@@ -16,10 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Makefile     7 mins          ███████████▓░░░░░░░░░░░░░   46.89 % 
-JavaScript   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.32 % 
-JSON         3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.74 % 
-HTML         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+
 ```
 <!--END_SECTION:waka-->
 
