@@ -16,7 +16,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript   18 mins         █████████████████████████   99.44 % 
 ```
 <!--END_SECTION:waka-->
 
