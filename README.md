@@ -2,7 +2,7 @@
    
 <p>
   <samp>
-    I'm Amanda Albuquerque. A Software developer and and Open Source Enthusiast from São Paulo.
+    I'm Amanda Albuquerque. A Software developer and Open Source Enthusiast from São Paulo.
   </samp>
 
   
