@@ -11,7 +11,7 @@ I'm Amanda Albuquerque, a passionate Software Developer and Open Source Enthusia
 - **Mobile:** React Native
 - **Design and Development:**
   - User Interface Design (UI), User Experience Design (UED), Semantic UI
-  - Amazon Web Services (AWS), Continuous Delivery (CD), Continuous Integration (CI), Github Actions, Docker.
+  - Amazon Web Services (AWS), Continuous Delivery, Continuous Integration, Github Actions, Docker.
   - React.js, Node.js, Vue.js, JavaScript, UI Kit, Backbone.js, Metodologias Agile
   - Apollo, Jest, GraphQL, TypeScript, Express.js, GitHub
 - **Other Competencies:**
